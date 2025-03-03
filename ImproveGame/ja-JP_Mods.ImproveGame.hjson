@@ -476,7 +476,7 @@ UI: {
 	}
 
 	PiggyFilter: {
-		Title: Filter Currencies
+		Title: 通貨の絞り込み
 	}
 }
 
@@ -484,9 +484,9 @@ ModName: Quality of Terraria
 
 Search: Search...
 
-PathIllegal: File name must not include following characterts: \, /, :, *, ?, ", <, > or |
+PathIllegal: ファイル名には次の文字を含めてないでください: \, /, :, *, ?, ", <, > or |
 
-FolderNameEmpty: Folder name cannot be empty
+FolderNameEmpty: フォルダ名を空にすることはできません。
 
 Tiles: {
 	Autofisher: {
@@ -723,7 +723,7 @@ ConstructGUI: {
 
 	MaterialInfo: {
 		Title: 材料情報
-		Tip: Materials stored in Big Backpack also count
+		Tip: 巨大リュックに保管されている材料もカウントされる
 		Stored: Has: {Stack}
 		Requirement: 必要: {Stack}
 	}
@@ -980,7 +980,7 @@ BuilderToggles: {
 	PiggyToggle: {
 		OffText: Auto-deposit: オフ
 		OnText: Auto-deposit: オン
-		RightFilter: Right click to open currency filter
+		RightFilter: 右クリックで通貨フィルターを開く
 	}
 }
 
@@ -1035,7 +1035,7 @@ ModernConfig: {
 	Presets: {
 		Label: プリセット
 		Tooltip: 一括設定用にテラリアのクオリティ別にプリセットが用意されています。また、独自のプリセットを作成することもできます。
-		PlayerPresetTooltip: プレーヤーが作成したプリセット
+		PlayerPresetTooltip: プレイヤーが作成したプリセット
 		DefaultPresetName: マイプリセット
 
 		ExplorerPreset: {
@@ -1373,8 +1373,8 @@ Configs: {
 		}
 
 		NoConsume_Wire: {
-			Label: "[centeritem:530] 无限电线"
-			Tooltip: 当电线的堆叠数  ≥ 3996 时将不再消耗。
+			Label: "[centeritem:530] 無限ワイヤーの有効化"
+			Tooltip: 3996以上のワイヤーは消費されなくなります
 		}
 
 		ImprovePrefix: {
@@ -1472,7 +1472,7 @@ Configs: {
 			Tooltip:
 				'''
 				右クリックでナースと話すと、ナースが回復してくれます
-				プレーヤーの上に金額が表示されます
+				プレイヤーの上に金額が表示されます
 				'''
 		}
 
@@ -1575,7 +1575,7 @@ Configs: {
 				同じチームのプレイヤーは、携帯クラフトステーションを共有します
 				つまり チーム内に作業台を持っているプレイヤーがいる場合、椅子を作るために作業台を持っている必要はありません
 				携帯クラフティングステーションがオンになっていることが必要です
-				プレーヤーが多すぎる場合（100人以上）、ラグが発生する可能性があります
+				プレイヤーが多すぎる場合（100人以上）、ラグが発生する可能性があります
 				'''
 		}
 
@@ -1586,7 +1586,7 @@ Configs: {
 				同じチームのプレイヤーは、バナーバフを含む無限バフを共有します
 				つまり チーム内にケーキのスライスを持っているプレイヤーがいる場合、あなたはケーキを食べる必要がありません！
 				少なくとも1つの無限バフ機能がオンになっている必要があります
-				プレーヤーが多すぎる場合（100人以上）、ラグが発生する可能性があります
+				プレイヤーが多すぎる場合（100人以上）、ラグが発生する可能性があります
 				'''
 		}
 
@@ -2173,7 +2173,7 @@ Configs: {
 			Tooltip:
 				'''
 				フォーカスが外れても（バックグラウンドでも）、ゲームは実行され続けます
-				シングルプレーヤーでは一時停止されません
+				シングルプレイヤーでは一時停止されません
 				'''
 		}
 
@@ -2707,12 +2707,12 @@ Items: {
 	}
 
 	ShimmerTech: {
-		DisplayName: Shimmemeter
+		DisplayName: シマーメーター
 		Tooltip:
 			'''
-			[c/ff0000:デバッグアイテム]
-			Removes shimmer bonuses of your player
-			<right> instead removes shimmer bonuses of the world
+			[c/ff0000:Debug Item]
+			プレイヤーのシマー効果を取り除く
+			<right> で世界全体のシマー効果を取り除く
 			バイタルクリスタル
 			アルケインクリスタル
 			イージスフルーツ
@@ -2721,7 +2721,7 @@ Items: {
 			ギャラクシーパール
 			高度な戦闘テクニック：第２巻
 			旅商人のカバン
-			"Oh God, I can see forever!"
+			「ああ、永遠に見える！」
 			'''
 	}
 
