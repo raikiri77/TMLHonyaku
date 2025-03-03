@@ -484,7 +484,7 @@ ModName: Quality of Terraria
 
 Search: Search...
 
-PathIllegal: ファイル名には次の文字を含めてないでください: \, /, :, *, ?, ", <, > or |
+PathIllegal: ファイル名には次の文字を含めないでください: \, /, :, *, ?, ", <, > or |
 
 FolderNameEmpty: フォルダ名を空にすることはできません。
 
