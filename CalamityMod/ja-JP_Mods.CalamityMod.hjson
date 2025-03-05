@@ -19512,8 +19512,8 @@ Status: {
 		EdgyBossText7: 貴様は神ではない...だがその魂、喰らわせてもらうぞ！
 		EdgyBossText8: 私を殺せるとでも！？
 		FlameText: 周りの空気が暖かくなっている...
-		DraedonIntroductionText1: この瞬間を長く待っていた。
-		DraedonIntroductionText2: あなたの本質には興味があります。私には理解しがたいものですから。
+		DraedonIntroductionText1: この瞬間を待ち望んでいた。
+		DraedonIntroductionText2: 私には理解できないからこそ...あなたの本質には興味があります。
 		DraedonIntroductionText3: あなたには、神々をも超えた私の創造物と対峙してもらいます。
 		DraedonIntroductionText4: そして、戦いを通じてあなたの在り方を観察させてもらいましょう。
 		DraedonIntroductionText5: さあ、選んでください。
@@ -19527,23 +19527,25 @@ Status: {
 		DraedonExoPhase3Text2: 今もなお、私はあなたの行動を監視しています。私の計算の範囲を超えるものなど、あってはなりません。
 		DraedonExoPhase4Text1: 興味深い...実に興味深い。
 		DraedonExoPhase4Text2: より困難な挑戦を前にしても着実に前進している...
-		DraedonExoPhase5Text1: あなたの本質はいまだに私には解明できません...これでは困りますね。
+		DraedonExoPhase5Text1: あなたの本質はいまだに私には理解できません...これでは困りますね。
 		DraedonExoPhase5Text2: ...私は完璧を求めてきました。しかし運命は皮肉なものです。それこそが、私の最初の誤りだったのかもしれません。
 		DraedonExoPhase6Text1: 馬鹿げていますね。
 		DraedonExoPhase6Text2: もはや、計算に囚われてこの戦いを見誤ることはありません。
 		DraedonExoPhase6Text3: 私の最終兵器の全てをお見せしましょう。
 		DraedonAresEnrageText: 愚かですね。逃げられるはずがない。
-		DraedonEndText1: 未知の要素――触媒、それがあなた自身です。
+		DraedonEndText1: 未知の存在...それが、あなたです。
+# 触媒ってなんやねんになりそうだし、訳しても助長になると思ったのでこの訳に
 		DraedonEndText2: あなたは私と同じく、この地にもその歴史にも縛られていない。
 		DraedonEndText3: ......少し考えすぎました。先ほどの光景を見て、思考を整理する必要がありそうです。
-		DraedonEndText4: この地は、長い年月の間に流された血によって古び、硬直してしまった。
-		DraedonEndText5: あなたもまた血を流しましたが、それが新たな時代の幕開けとなるのかもしれません......何の時代なのか、それは私にも分かりません。しかし、それを見届けたいと強く思っています。
+		DraedonEndText4: この地は、無数の血によって淀み、朽ちてしまった。
+# 硬直してしまっただと意味が通りづらくね？と思ったのでこの訳に
+		DraedonEndText5: あなたもまた血を流しましたが、それが新しい時代をもたらすのに十分かもしれません......それがどんなものになるのか、今はまだ分かりませんが、その行く末を見守るのは興味深いものになりそうですね。
 		DraedonEndText6: さて、あなたは暴君のもとへ向かおうとしているようですが、私は手を貸すことはできません。
-		DraedonEndText7: それは悪意によるものではありません。本来なら、そんな戦いを観察できることこそが私にとっての喜びなのですが。
+		DraedonEndText7: 腹いせではありませんよ。私はその様子を観察していたいとすら思っていますからね。
 		DraedonEndText8: ですが、あなたはこれまでも道を切り開いてきた。今回もいずれ、方法を見つけるでしょう。
-		DraedonEndText9: あなたの勝利は認めます。しかし、私はもう機械のもとへ戻るとしましょう。
+		DraedonEndText9: あなたの勝利は認めます。しかし、私はそろそろ戻らなければいけません。
 		DraedonEndKillAttemptText: ...まったく、無意味なことだ...
-		DraedonMechdusaBeginText: ...死ね
+		DraedonMechdusaBeginText: ...死ね。
 		DraedonMechdusaEndText1: 待て、何？どうやって...
 		DraedonMechdusaEndText2: いや....
 		SCalSummonText: 地獄を楽しんでいるか？
