@@ -2795,7 +2795,7 @@ Items: {
 			}
 
 			EidolicWail: {
-				DisplayName: エイドリックウェイル
+				DisplayName: 幽玄の慟哭
 				Tooltip:
 					'''
 					時間経過で強化される音波を発射する
