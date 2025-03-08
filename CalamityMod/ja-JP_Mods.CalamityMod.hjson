@@ -5899,7 +5899,7 @@ Items: {
 					'''
 				TooltipNormal:
 					'''
-					カラフルなスターショットを高速で発射する
+					カラフルなスターショットを連射する
 					同時に存在できるレーザーは2つまで
 					「北極星の印を宿している」
 					'''
@@ -8065,7 +8065,7 @@ Items: {
 			}
 
 			EtherealSubjugator: {
-				DisplayName: 幽玄の杖
+				DisplayName: 霊魂の杖
 				Tooltip: 共に戦うファントムを召喚する
 			}
 
