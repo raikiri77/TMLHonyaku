@@ -282,7 +282,7 @@ Origins: {
 	}
 
 	Huntsman: {
-		Description: 弓、無限矢筒、狩人のマントを持って開始する。
+		Description: 弓、矢200本、狩人のマントを持って開始する。
 		Flavor: 揺るがぬ手と鋭い眼差しを持つ、狩りの達人。
 		DisplayName: 狩人
 	}
