@@ -2,8 +2,8 @@ Items: {
 	WhiteDwarfMask: {
 		SetBonus:
 			'''
-			Critical strikes will unleash ivory flares from the cosmos
-			Ivory flares deal 0.05% of the hit target's maximum life as damage
+			クリティカルヒット時に、宇宙から閃光が放たれる
+			閃光は、命中した対象の最大体力の0.05%のダメージを与える
 			'''
 		Tooltip:
 			'''
@@ -17,8 +17,8 @@ Items: {
 	WhiteDwarfGuard: {
 		SetBonus:
 			'''
-			Critical strikes will unleash ivory flares from the cosmos
-			Ivory flares deal 0.05% of the hit target's maximum life as damage
+			クリティカルヒット時に、宇宙から閃光が放たれる
+			閃光は、命中した対象の最大体力の0.05%のダメージを与える
 			'''
 		Tooltip:
 			'''
@@ -32,8 +32,8 @@ Items: {
 	WhiteDwarfGreaves: {
 		SetBonus:
 			'''
-			Critical strikes will unleash ivory flares from the cosmos
-			Ivory flares deal 0.05% of the hit target's maximum life as damage
+			クリティカルヒット時に、宇宙から閃光が放たれる
+			閃光は、命中した対象の最大体力の0.05%のダメージを与える
 			'''
 		Tooltip:
 			'''
@@ -238,7 +238,7 @@ Items: {
 
 	DeadwoodFence: {
 		Tooltip: ""
-		DisplayName: Deadwood Fence
+		DisplayName: デッドウッドのフェンス
 	}
 
 	DeadwoodDresser: {
