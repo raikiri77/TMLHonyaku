@@ -11098,7 +11098,7 @@ Items: {
 	}
 
 	SlagMask: {
-		Tooltip: 「侵略の装いをしろ…」
+		Tooltip: 「侵略の面影を身にまとえ…」
 		DisplayName: スラグフューリーのマスク
 	}
 
@@ -11295,8 +11295,8 @@ Items: {
 	}
 
 	OmniMask: {
-		Tooltip: 「カオスの面影を身にまとえ...」
-		DisplayName: オムニサイドマスク
+		Tooltip: 「混沌の面影を身にまとえ...」
+		DisplayName: オムニサイドのマスク
 	}
 
 	WyrmDecimator: {
@@ -11521,8 +11521,8 @@ Items: {
 	}
 
 	AquaMask: {
-		Tooltip: 「ヴィジランスの面影を身にまとう...」
-		DisplayName: アクアイアスのマスク
+		Tooltip: 「監視者の面影を身にまとえ…」
+		DisplayName: アクイウスのマスク
 	}
 
 	TideTurnersGaze: {
