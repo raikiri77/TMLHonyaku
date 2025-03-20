@@ -82,11 +82,11 @@ Dialogue: {
 			Yell10: くそくらえ！
 			Yell9: 痛っ！
 			Yell8: やめろ！
-			Yell7: やめな！
+			Yell7: やめろ！
 			Yell6: それやめろ！
-			Yell5: やめて！
+			Yell5: やめてくれ！
 			Yell4: 何やってんだよ！
-			Yell3: 俺はこんな運命じゃねえ！
+			Yell3: 使い方が違うぞ！
 			Yell2: それやめろって！
 			Yell1: いてっ！
 		}
@@ -776,7 +776,7 @@ Items: {
 	}
 
 	Equilibrium: {
-		DisplayName: 均衡
+		DisplayName: 均衡の剣
 		Tooltip: ""
 	}
 
@@ -820,7 +820,7 @@ Items: {
 	}
 
 	Serration: {
-		Tooltip: 地面を叩くと独特な攻撃になる
+		Tooltip: 地面を叩くと特殊攻撃を繰り出す
 		DisplayName: セレーション
 	}
 
@@ -884,7 +884,7 @@ Items: {
 	}
 
 	Spinax: {
-		Tooltip: クリムゾンの力で強化された古代恐竜の背骨
+		Tooltip: 真紅の力で強化された古代恐竜の背骨
 		DisplayName: スピナックス
 	}
 
@@ -1079,7 +1079,7 @@ Items: {
 	}
 
 	MeatCrusher: {
-		Tooltip: 地面を叩くと独特な攻撃を繰り出す
+		Tooltip: 地面を叩くと特殊攻撃を繰り出す
 		DisplayName: ミートクラッシャー
 	}
 
@@ -1208,7 +1208,7 @@ NPCs: {
 	}
 
 	Screecher: {
-		Bestiary: 中型の皮膚のないクリーチャーで、クリムゾンを歩く一種のアラームだ。神経がほぼむき出しで、わずかな動きでも感知してクリムゾンに警告する。
+		Bestiary: 中型の皮膚のないクリーチャーで、真紅の一種のアラームだ。神経がほぼむき出しで、わずかな動きでも感知して真紅に警告する。
 		DisplayName: シュリーカー
 	}
 
