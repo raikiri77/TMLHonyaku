@@ -4065,7 +4065,7 @@ Keybinds.AlternateFireMode.DisplayName: Alternate Fire Mode
 
 Miscellaneous: {
 	CycleInventoryButton: サイクルインベントリ
-	MissingAlternateFireKeybind: '''[c/ffff40:コントロールの設定を入力し "Gensokyo: {$Mods.Gensokyo.Keybind.AlternateFireMode.DisplayName}" キーを押してください] '''
+	MissingAlternateFireKeybind: '''[c/ffff40:コントロールの設定を入力し "Gensokyo: {$Mods.Gensokyo.Keybinds.AlternateFireMode.DisplayName}" キーを押してください] '''
 	NewShopInventory: 森近霖之助に新しいアイテムが追加されました！
 	RightClick: 右クリック
 }
